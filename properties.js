@@ -1,3 +1,3 @@
 _config = {
-  "apiRoot": "https://acis-api.flcourts.gov"
+  "apiRoot": "https://gjordan416.github.io/JKDocket/"
 }
